@@ -1,0 +1,32 @@
+_repo: A-Dream-of-the-North-Sea_52126
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Runciman, James
+    birthdate: 1852
+    deathdate: 1891
+    gutenberg_agent_id: '5023'
+    url: http://www.gutenberg.org/2009/agents/5023
+    wikipedia: http://en.wikipedia.org/wiki/James_Runciman
+description: ''
+gutenberg_issued: '2016-05-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52126'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure and adventurers -- Fiction'
+- !lcsh 'Shipwrecks -- Fiction'
+- !lcc 'PR'
+- !lcsh 'North Sea -- Fiction'
+- !lcsh 'Fishers -- Great Britain -- Fiction'
+- !lcsh 'Royal National Mission to Deep Sea Fishermen -- Fiction'
+- !lcsh 'Physicians -- Fiction'
+- !lcsh 'Voyages and travels -- Fiction'
+- !lcsh 'Conduct of life -- Fiction'
+- GITenberg
+title: A Dream of the North Sea
+url: http://www.gutenberg.org/ebooks/52126
